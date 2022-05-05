@@ -1,0 +1,38 @@
+[
+    {
+        "car_id": 2,
+        "car_info": "wolksvagen passat",
+        "begin": "2021-01-17",
+        "end": "2021-01-27",
+        "cost": 660,
+        "rent_id": 1,
+        "exceeded": "no"
+    },
+    {
+        "car_id": 6,
+        "car_info": "audi a4",
+        "begin": "2021-01-13",
+        "end": "2021-01-30",
+        "cost": 2880,
+        "rent_id": 2,
+        "exceeded": "no"
+    },
+    {
+        "car_id": 7,
+        "car_info": "fiat ducato",
+        "begin": "2021-01-02",
+        "end": "2021-01-15",
+        "cost": 2450,
+        "rent_id": 3,
+        "exceeded": "yes"
+    },
+    {
+        "car_id": 12,
+        "car_info": "toyota supra",
+        "begin": "2021-01-19",
+        "end": "2021-01-27",
+        "cost": 3780,
+        "rent_id": 4,
+        "exceeded": "no"
+    }
+]

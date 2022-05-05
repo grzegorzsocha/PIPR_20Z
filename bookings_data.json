@@ -1,0 +1,42 @@
+[
+    {
+        "car_id": 3,
+        "car_info": "ford mondeo",
+        "begin": "2021-01-27",
+        "end": "2021-02-05",
+        "booking_id": 1,
+        "cost": 1500
+    },
+    {
+        "car_id": 1,
+        "car_info": "citroen xsara",
+        "begin": "2021-02-25",
+        "end": "2021-02-27",
+        "booking_id": 2,
+        "cost": 135
+    },
+    {
+        "car_id": 10,
+        "car_info": "seat leon",
+        "begin": "2021-03-13",
+        "end": "2021-05-14",
+        "booking_id": 3,
+        "cost": 5355
+    },
+    {
+        "car_id": 4,
+        "car_info": "opel zafira",
+        "begin": "2021-06-12",
+        "end": "2021-07-01",
+        "booking_id": 4,
+        "cost": 1500
+    },
+    {
+        "car_id": 8,
+        "car_info": "ferrari f40",
+        "begin": "2021-02-12",
+        "end": "2021-02-27",
+        "booking_id": 5,
+        "cost": 7200
+    }
+]
